@@ -8,7 +8,7 @@
 <br>
 
 
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
+![NaClCode's github stats](https://github-readme-stats.vercel.app/api?username=NaClCode&show_icons=true&hide_border=true)
 
 <br>
 
