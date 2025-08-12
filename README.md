@@ -40,7 +40,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NaClCode&show_icons=true&hide=prs&theme=dark&line_height=24"/> &emsp;&emsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaClCode&hide=Jupyter%20Notebook,Tex&show_icons=true&theme=dark&layout=compact&card_width=450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaClCode&hide=Jupyter%20Notebook,Tex&show_icons=true&theme=dark&layout=compact"/>
 </div>
 
 
