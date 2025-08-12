@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);NaClCode!&center=true&size=27)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=console.log(%22Hello%2C%20World%22);NaClCode!&center=true&size=30)](https://git.io/typing-svg)
 
 
   <!-- knock code pictures 敲代码的图片 -->
@@ -31,14 +31,16 @@
 
 <br>
 
-<h1 align="center">Hi 👋, I'm NaClCode 👨‍💻</h1>
 <h3 align="center">An undergraduate student in Computer Science and Technology at Wuhan University of Technology</h3>
 
 
 <br>
 
+
+
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NaClCode&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NaClCode&show_icons=true&hide=prs&theme=dark&line_height=24"/> &emsp;&emsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaClCode&hide=Jupyter%20Notebook,Tex&show_icons=true&theme=dark&layout=compact&card_width=450"/>
 </div>
 
 
