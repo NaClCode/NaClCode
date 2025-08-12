@@ -29,10 +29,7 @@
   
 </div>
 <br>
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaClCode&hide=Jupyter%20Notebook,Tex&show_icons=true&theme=dark&card_width=467"/>
-</div>
-<br>
+
 
 <div align="center">
 <h3 align="center">Languages and Tools:</h3>
