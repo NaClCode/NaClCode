@@ -1,6 +1,7 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&pause=1000&width=1000&lines=console.log(%22Hello%2C%20World%22);NaClCode!&center=true&size=35)](https://git.io/typing-svg)
+
+   <img height="200" src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&pause=1000&width=1000&height=100&lines=console.log(%22Hello%2C%20World%22);NaClCode!&center=true&size=45" />
 
   <div>
   <a href="https://orcid.org/0009-0007-6450-7109">
