@@ -21,8 +21,9 @@
 </div>
 
 
-<h3 align="center">Prospective graduate student, School of Mechanical and Electrical Engineering, University of Electronic Science and Technology of China.</h3>
-
+<h3 align="center">Prospective graduate student</h3>
+<h3 align="center">School of Mechanical and Electrical Engineering</h3>
+<h3 align="center">University of Electronic Science and Technology of China</h3>
 
 <br>
 
