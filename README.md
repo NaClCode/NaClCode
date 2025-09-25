@@ -21,7 +21,7 @@
 </div>
 
 
-<h3 align="center">An undergraduate student in Computer Science and Technology at Wuhan University of Technology</h3>
+<h3 align="center">Prospective graduate student, School of Mechanical and Electrical Engineering, University of Electronic Science and Technology of China.</h3>
 
 
 <br>
