@@ -21,9 +21,10 @@
 </div>
 
 
-<h3 align="center">Prospective graduate student</h3>
-<h3 align="center">School of Mechanical and Electrical Engineering</h3>
-<h3 align="center">University of Electronic Science and Technology of China</h3>
+<div align="center">
+  <h3 style="margin: 0;">Prospective Graduate Student, School of Mechanical and Electrical Engineering, UESCT</h3>
+</div>
+
 
 <br>
 
