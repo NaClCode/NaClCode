@@ -26,7 +26,7 @@
 </div>
 
 
-<br>
+<!-- <br> -->
 
 
 
@@ -34,7 +34,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NaClCode&show_icons=true&theme=dark&line_height=25"/> 
   
 </div> -->
-<br>
+<!-- <br> -->
 
 
 <div align="center">
